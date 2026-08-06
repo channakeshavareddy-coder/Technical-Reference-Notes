@@ -10,7 +10,11 @@ Technical-Notes/
 ├── Java-Full-Stack/  
 │   ├── Frontend/  
 │   ├── APIs/  
-│   ├── Backend/  
+│   ├── Backend/
+│   │   │
+│   │   ├── Core Java/
+│   │   │   └──Java_Fundamentals.pdf
+│   │   
 │   └── Databases/  
 │  
 ├── Python-Full-Stack/  
