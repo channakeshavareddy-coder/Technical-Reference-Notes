@@ -11,10 +11,6 @@ Technical-Notes/
 │   ├── Frontend/  
 │   ├── APIs/  
 │   ├── Backend/
-│   │   │
-│   │   ├── Core Java/
-│   │   │   └──Java_Fundamentals.pdf
-│   │   
 │   └── Databases/  
 │  
 ├── Python-Full-Stack/  
@@ -36,7 +32,8 @@ Java-Full-Stack/
 ├── Frontend/  
 ├── APIs/  
 ├── Backend/  
-│   ├── Core-Java/  
+│   ├── Core-Java/
+│   │   └──Java_Fundamentals.pdf  
 │   ├── JDBC/  
 │   ├── Servlets/  
 │   ├── Spring-Ecosystem/  
