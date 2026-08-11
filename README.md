@@ -33,6 +33,7 @@ Java-Full-Stack/
 │   └── Hibernate-ORM/  
 └── Databases/   
     └── PostgreSQL/  
+```
 
 ## 🎯 Purpose
 To maintain a centralized, well-organized collection of technical notes for learning, reference, and knowledge sharing.
