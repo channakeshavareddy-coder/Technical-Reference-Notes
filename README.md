@@ -1,24 +1,11 @@
 # 📚 Technical Notes
 
-<div align="center">Welcome to my Technical Notes repository.</div>
+<div align="center">Welcome to my Java Full Stack Reference Notes repository.</div>
 
-This repository serves as my centralized knowledge base, containing well-organized notes on programming languages, full-stack development, databases, DevOps, version control, operating systems, and Data Structures & Algorithms.
+This repository serves as my centralized knowledge base, containing well-organized notes on **Java Full Stack Development**, including Core Java, backend development, frontend technologies, APIs, databases, Spring ecosystem, Hibernate, and related technologies.
+
 
 ## 📂 Repository Structure
-
-```text
-Technical-Notes/  
-│  
-├── Java-Full-Stack/  
-│   ├── Frontend/  
-│   ├── APIs/  
-│   ├── Backend/  
-│   └── Databases/  
-│  
-├── Python/  
-├── DevOps/  
-└── Data-Structures-Algorithms/  
-```
 
 <p align="center"><b>Java Full Stack</b></p>
 
@@ -51,9 +38,7 @@ To maintain a centralized, well-organized collection of technical notes for lear
 
 ## ⭐ About This Repository
 
-The notes in this repository are written and organized by me based on my learning, practice, and hands-on experience.  
-
-As I continue learning new technologies, this repository will grow with additional notes and resources.  
+The notes in this repository are written and organized by me based on my learning, practice, and hands-on experience.    
 
 ## 🤝 Contributions
 
