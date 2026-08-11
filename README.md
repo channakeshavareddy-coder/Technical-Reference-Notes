@@ -6,7 +6,7 @@ This repository serves as my centralized knowledge base, containing well-organiz
 
 ## 📂 Repository Structure  
   
-​```text  
+​  
 Technical-Notes/  
 │  
 ├── Java-Full-Stack/  
@@ -18,11 +18,11 @@ Technical-Notes/
 ├── Python/
 ├── DevOps/
 └── Data-Structures-Algorithms/
-​```  
+​  
   
 <p align="center"><b>Java Full Stack</b></p>  
   
-​```text  
+​  
 Java-Full-Stack/  
 │  
 ├── Frontend/  
@@ -39,8 +39,7 @@ Java-Full-Stack/
 │   └── Hibernate-ORM/  
 └── Databases/  
     └── PostgreSQL/  
-​```
-
+​
 ## 🎯 Purpose
 
 To maintain a centralized, well-organized collection of technical notes for learning, reference, and knowledge sharing.  
