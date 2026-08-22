@@ -16,8 +16,10 @@ Java-Full-Stack/
 ├── APIs/  
 │  
 ├── Backend/  
-│   ├── Core-Java/    
-│   │  
+│   ├── Core-Java/
+│   │       │  
+│   │       └── Java_fundamentals.pdf
+│   │ 
 │   ├── JDBC/  
 │   ├── Servlets/  
 │   │  
