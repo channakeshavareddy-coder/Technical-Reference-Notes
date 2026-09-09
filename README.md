@@ -18,8 +18,8 @@ Technical-Reference Notes
         |           │  
         |           ├── Backend/  
         |           │       ├── Core-Java/  
-        |           │       │  
-        |           │       │  
+        |           │       │       ├── 01 Java Fundamentals
+        |           │       │       
         |           │       │  
         |           │       │  
         |           │       ├── JDBC/  
@@ -37,7 +37,7 @@ Technical-Reference Notes
         |  
         |  
         |  
-        ├── Python Programming
+        ├── Python Programming/
 ```
 
 ## 🎯 Purpose
