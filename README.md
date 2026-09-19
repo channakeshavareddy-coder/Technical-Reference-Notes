@@ -37,7 +37,7 @@ Technical-Reference Notes
         |  
         |  
         |  
-        ├── Python Programming/
+        ├── Python Full Stack/
 ```
 
 ## 🎯 Purpose
