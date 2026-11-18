@@ -18,7 +18,9 @@ Technical-Reference Notes
         |                   ├── 02 Java OOPs
         |                   └── 03 Exception Handling in Java
         |  
-        ├──────── Frontend Development/
+        ├──────── Microsoft Power BI/
+        |                   ├── 
+        |                   
 ```
 
 ## 🎯 Purpose
